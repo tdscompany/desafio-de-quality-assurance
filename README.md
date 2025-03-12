@@ -13,4 +13,3 @@ Para o site https://www.automationexercise.com/, realizar as seguintes atividade
 - Domínio das atividades de testes;
 - Objetividade dos testes;
 - Critérios de cobertura usados na decisão de cada teste escrito.
-- 
